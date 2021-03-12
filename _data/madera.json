@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "6041ab94157a1f54e0e75666",
+    "name": "Alfajillas",
+    "image": "/images/airpods.jpg",
+    "description": "Utiles para su hogar",
+    "brand": "Mango",
+    "category": "Madera comun",
+    "price": 89.99,
+    "countInStock": 3,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d2454ed"
+  },
+  {
+    "_id": "6041ab75157a1f54e0e75664",
+    "name": "Repisas",
+    "image": "/images/phone.jpg",
+    "description": "Util para que ponga su adornos",
+    "brand": "Genizero",
+    "category": "Madera comun",
+    "price": 599.99,
+    "countInStock": 10,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d2454ed"
+  },
+  {
+    "_id": "6041a8cf33f6a452cad6d885",
+    "name": "Ventanas",
+    "image": "/images/camera.jpg",
+    "description": "Util para su hogar",
+    "brand": "Cedro",
+    "category": "Madera preciosa",
+    "price": 929.99,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d2454ed"
+  },
+  {
+    "_id": "6041a8cf33f6a452cad6d886",
+    "name": "Cama",
+    "image": "/images/playstation.jpg",
+    "description": "Utilizada para su descanso",
+    "brand": "Teca",
+    "category": "Madera preciosa",
+    "price": 399.99,
+    "countInStock": 10,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d2454ed"
+  },
+  {
+    "_id": "6041a8cf33f6a452cad6d883",
+    "name": "Puertas",
+    "image": "/images/mouse.jpg",
+    "description": "Util para las puertas de su hogar",
+    "brand": "Cedro",
+    "category": "Madera preciosa",
+    "price": 49.99,
+    "countInStock": 7,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d24541a"
+  },
+  {
+    "_id": "6041a8cf33f6a452cad6d884",
+    "name": "Ropero Grande",
+    "image": "/images/roper.jpg",
+    "description": "Util para guardar tu ropa",
+    "brand": "Cedro",
+    "category": "Madera preciosa",
+    "price": 29.99,
+    "countInStock": 0,
+    "rating": 0,
+    "numReviews": 0,
+    "user": "6041a8da4e0425528d24541a"
+  }
+]
+
+  

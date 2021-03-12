@@ -1,0 +1,17 @@
+[
+    {
+      "_id": "6041a8da4e0425528d2454ed",
+      "name": "Joshua Garcia",
+      "email": "garcia@gmail.com",
+      "password": "123456",
+      "role": "publisher"
+    },
+    {
+      "_id": "6041a8da4e0425528d24541a",
+      "name": "Armando López",
+      "email": "armando@gmail.com",
+      "password": "123456",
+      "role": "publisher"
+    }
+  ]
+  
